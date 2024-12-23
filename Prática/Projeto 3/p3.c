@@ -2,9 +2,11 @@
 #include <stdlib.h>
 #include <math.h>
 #include <string.h>
+
 // Atividade 3: Cena Gráfica
 // Autor: Jeann Victor Batista
 int main() {
+    
     // Variáveis
     float lado1, lado2, lado3, VT = 0, AT = 0;
     char objeto[50];

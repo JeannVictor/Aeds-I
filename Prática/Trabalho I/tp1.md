@@ -1,18 +1,39 @@
-Projeto: Gestão de Veículos - Banco de Dados
-Descrição
+# Trabalho 1: Estatística em Base de Dados de Veículos
 
-Este projeto em C foi desenvolvido para gerenciar uma base de dados de veículos, permitindo ao usuário realizar diversas operações sobre os registros de veículos armazenados em um arquivo de texto. O aplicativo lê os dados de entrada de um arquivo e armazena as informações em um vetor de registros. Após as operações, o programa grava as modificações de volta no arquivo de texto.
+## Objetivo
 
-O objetivo do sistema é permitir que o usuário realize as seguintes operações sobre a base de dados de veículos:
+Este projeto tem como objetivo desenvolver um aplicativo em C para manipulação de registros de veículos armazenados em um arquivo texto. O sistema permite incluir, buscar, excluir e realizar análises estatísticas sobre os dados, consolidando o aprendizado em manipulação de registros, vetores e variáveis simples.
 
-    Inclusão de um novo veículo.
-    Busca de veículos pela placa, com a opção de exclusão.
-    Busca de veículos por tipo.
-    Busca de veículos por câmbio.
-    Busca de veículos por faixa de valores.
-    Relatório detalhado do banco de dados, com informações estatísticas.
+---
 
-O relatório do banco de dados inclui a porcentagem de veículos por categoria de tipo, por combustível, informações sobre o veículo mais barato com motor 1.0, o mais caro com direção hidráulica e câmbio automático, além de dados sobre a quilometragem média de veículos com mais de 5 anos.
-Como Funciona
+## Funcionalidades
+
+### Operações Disponíveis
+
+1. **Incluir um Novo Veículo**  
+   Adiciona um novo registro de veículo ao vetor de registros, desde que não exceda o limite de 100 registros.
+
+2. **Buscar Veículo pela Placa com Opção de Exclusão**  
+   Localiza um veículo pela placa e, opcionalmente, o exclui da base de dados, marcando-o como inválido.
+
+3. **Buscar Veículos pelo Tipo**  
+   Filtra e exibe todos os veículos de um tipo específico.
+
+4. **Buscar Veículos pelo Câmbio**  
+   Filtra e exibe todos os veículos com um tipo de câmbio específico.
+
+5. **Buscar Veículos por Faixa de Valores**  
+   Filtra e exibe todos os veículos cujo valor esteja dentro de uma faixa informada pelo usuário.
+
+6. **Relatório do Banco de Dados**  
+   Apresenta um resumo estatístico da base de dados, incluindo:
+   - Porcentagens de veículos por categoria de tipo.
+   - Porcentagens de veículos por tipo de combustível.
+   - Veículo mais barato com motor 1.0, seu financiamento em 60 meses e taxa de juros atual.
+   - Veículo mais caro com direção hidráulica e câmbio automático, e o valor estimado do seguro.
+   - Quantidade e média de quilometragem dos veículos com 5 anos ou mais (2019).
+
+---
+
 
   
