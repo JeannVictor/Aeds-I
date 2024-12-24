@@ -5,7 +5,7 @@ Aqui você encontrará todas as atividades realizadas durante a disciplina, que 
 
 ---
 
-## 🏗️ Estrutura do Repositório
+## 🌟 Estrutura do Repositório
 
 O repositório está dividido em duas seções principais: **Prática** e **Teoria**, que refletem as abordagens prática e teórica da disciplina.
 
@@ -45,8 +45,8 @@ Os códigos deste repositório estão escritos em **C**, uma linguagem de progra
 2. **Confira os exercícios teóricos**:
    - Navegue até a pasta [Teoria](./Teoria).
    - Consulte as listas de exercícios em PDF:
-     - [Lista 1](./Teoria/Lista1.pdf) - Introdução a algoritmos, análise de complexidade, manipulação básica de dados.
-     - [Lista 2](./Teoria/Lista2.pdf) - Estruturas de dados como pilhas, filas e listas encadeadas.
+     - [Lista 1](./Teoria/Lista I.pdf) - Introdução a algoritmos, análise de complexidade, manipulação básica de dados.
+     - [Lista 2](./Teoria/Lista II.pdf) - Estruturas de dados como pilhas, filas e listas encadeadas.
 
 ---
 
@@ -72,10 +72,7 @@ Sinta-se à vontade para utilizá-lo, modificá-lo e distribuí-lo, desde que os
 
 ## 🚀 Comece a explorar!
 
-- 👉 [Prática](./Prática)  
+- 👉 [Prática](./Pratica)  
 - 👉 [Teoria](./Teoria)  
 
-☮️ **Paz,Amor e Empatia!**
-
-
-
+✨ **Paz,Amor e Empatia!**
