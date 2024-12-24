@@ -45,8 +45,8 @@ Os códigos deste repositório estão escritos em **C**, uma linguagem de progra
 2. **Confira os exercícios teóricos**:
    - Navegue até a pasta [Teoria](./Teoria).
    - Consulte as listas de exercícios em PDF:
-     - [Lista 1](./Teoria/Lista1.pdf) - Introdução a algoritmos, análise de complexidade, manipulação básica de dados.
-     - [Lista 2](./Teoria/Lista2.pdf) - Estruturas de dados como pilhas, filas e listas encadeadas.
+     - [Lista 1](./Teoria/LISTA1.pdf) - Introdução a algoritmos, análise de complexidade, manipulação básica de dados.
+     - [Lista 2](./Teoria/LISTA2.pdf) - Estruturas de dados como pilhas, filas e listas encadeadas.
 
 ---
 
