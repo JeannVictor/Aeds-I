@@ -65,8 +65,7 @@ Este repositório foi desenvolvido por **[Jeann Victor](https://github.com/Jeann
 
 ## 📜 Licença
 
-Este projeto está licenciado sob a **MIT License**.  
-Sinta-se à vontade para utilizá-lo, modificá-lo e distribuí-lo, desde que os devidos créditos sejam dados ao autor.
+Este projeto está sob a licença **MIT**, permitindo sua utilização, modificação e distribuição, desde que seja dado o devido crédito ao autor.
 
 ---
 
