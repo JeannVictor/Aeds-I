@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include "ex12.h"
 
-//Exercício 12 e 13: 
-//Autor: Jeann Victor Batista
+// Exercício 12 e 13: 
+// Autor: Jeann Victor Batista
 
 int main() {
     pessoa pessoas[MAX_PESSOAS];

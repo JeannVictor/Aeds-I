@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-//Exercício 3: 
-//Autor: Jeann Victor Batista
+// Exercício 3: 
+// Autor: Jeann Victor Batista
 
 int main()
 { 

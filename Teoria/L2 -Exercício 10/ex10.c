@@ -3,8 +3,8 @@
 #include <string.h>
 #include <time.h>
 
-//Exercício 10: 
-//Autor: Jeann Victor Batista
+// Exercício 10: 
+// Autor: Jeann Victor Batista
 
 // Função para soma valores do array.
 int somaV(int arr[],int N){

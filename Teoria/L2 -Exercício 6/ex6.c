@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-//Exercício 6: 
-//Autor: Jeann Victor Batista
+// Exercício 6: 
+// Autor: Jeann Victor Batista
 
 // Função que retorna a data por extenso como uma string
 void data(int dia, int mes, int ano, char *resultado) {

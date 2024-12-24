@@ -3,8 +3,8 @@
 #include <string.h>
 #include <time.h>
 
-//Exécicio 1
-//Autor: Jeann Victor Batista
+// Exercício 1
+// Autor: Jeann Victor Batista
 
 // Estrutura Utilizada 
 typedef struct {

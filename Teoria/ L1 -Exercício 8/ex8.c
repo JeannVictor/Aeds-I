@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-// Exercicio 8
+// Exercício 8
 // Autor: Jeann Victor Batista
 
 // Função para calcular o fatorial.

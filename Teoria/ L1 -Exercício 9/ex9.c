@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <math.h>
 
-// Exercicio 9
+// Exercício 9
 // Autor: Jeann Victor Batista
 
-// O exercicio em si tinha como proposito calcular os primeiros 20 termos
-// Porem não foi possivel representar isso
+// O exercício em si tinha como propósito calcular os primeiros 20 termos
+// Porem não foi possível representar isso
 
 // Função para calcular o fatorial.
 int fatorial(int x){

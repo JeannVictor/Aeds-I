@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
-//Exécicio 4
-//Autor: Jeann Victor Batista
+// Exercício 4
+// Autor: Jeann Victor Batista
 
 // Estrutura Utilizada 
 typedef struct {

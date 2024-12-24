@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// Exécicio 5
+// Exercício 5
 // Autor: Jeann Victor Batista
 
 int main()

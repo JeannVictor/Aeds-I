@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-//Exercício 2: 
-//Autor: Jeann Victor Batista
+// Exercício 2: 
+// Autor: Jeann Victor Batista
 
 // Função Selection Sort
 void selectionSort(int arr[], int n) {

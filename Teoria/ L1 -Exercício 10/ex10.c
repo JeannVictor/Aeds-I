@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-// Exercicio 10
+// Exercício 10
 // Autor: Jeann Victor Batista
 
 int main()

@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-//Exercício 7: 
-//Autor: Jeann Victor Batista
+// Exercício 7: 
+// Autor: Jeann Victor Batista
 
 // Função para transformar dados em segundos
 int segundos(int hora,int minuto,int segundo){

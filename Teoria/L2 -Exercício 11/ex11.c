@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-//Exercício 11: 
-//Autor: Jeann Victor Batista
+// Exercício 11: 
+// Autor: Jeann Victor Batista
 
 int main() {
 
