@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-//Atividade 4: Operações em vetores
-//Autor: Jeann Victor Batista
+// Atividade 4: Operações em vetores
+// Autor: Jeann Victor Batista
 
 // Variável global para definir o tamanho máximo do vetor
 int MAX = 1000;

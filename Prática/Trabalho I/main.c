@@ -2,6 +2,9 @@
 #include <stdlib.h>
 #include "tp1.h"
 
+// Trabalho 1: Estatística em Base de Dados de Veículos
+// Autor: Jeann Victor Batista
+
 int main() {
     Carro carros[MAX_CARROS] = {0};
     int totalcarros = 0, opcao;

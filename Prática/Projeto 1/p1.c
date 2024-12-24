@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-//Atividade 1: Criando condições
-//Autor: Jeann Victor Batista
+// Atividade 1: Criando condições
+// Autor: Jeann Victor Batista
 
 int main()
 {

@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-//Atividade 2: Números Aleatórios
-//Autor: Jeann Victor Batista
+// Atividade 2: Números Aleatórios
+// Autor: Jeann Victor Batista
 
 int main()
 {
