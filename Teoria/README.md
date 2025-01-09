@@ -16,16 +16,16 @@ Esta pasta contém as listas de exercícios da disciplina AEDs I - Teoria, organ
 ## Sumário
 
 ### Lista 1 - Algoritmos Básicos
-1. [Pesquisa de Mercado](#pesquisa-de-mercado) - [Implementação](./L1%20-Exercício%201/)
-2. [Mortalidade Infantil](#mortalidade-infantil) - [Implementação](./L1%20-Exercício%202/)
-3. [Sistema de Avaliação](#sistema-de-avaliacao) - [Implementação](./L1%20-Exercício%203/)
-4. [Audiência de TV](#audiencia-de-tv) - [Implementação](./L1%20-Exercício%204/)
-5. [Cálculo de Série I](#calculo-de-serie-i) - [Implementação](./L1%20-Exercício%205/)
-6. [Cálculo de Série II](#calculo-de-serie-ii) - [Implementação](./L1%20-Exercício%206/)
-7. [Série com Precisão](#serie-com-precisao) - [Implementação](./L1%20-Exercício%207/)
-8. [Cálculo Exponencial](#calculo-exponencial) - [Implementação](./L1%20-Exercício%208/)
-9. [Cálculo de Cosseno](#calculo-de-cosseno) - [Implementação](./L1%20-Exercício%209/)
-10. [Desafio do Tabuleiro](#desafio-do-tabuleiro) - [Implementação](./L1%20-Exercício%2010/)
+1. [Pesquisa de Mercado](#pesquisa-de-mercado) - [Implementação](./%20L1%20-Exercício%201/)
+2. [Mortalidade Infantil](#mortalidade-infantil) - [Implementação](./%20L1%20-Exercício%202/)
+3. [Sistema de Avaliação](#sistema-de-avaliacao) - [Implementação](./%20L1%20-Exercício%203/)
+4. [Audiência de TV](#audiencia-de-tv) - [Implementação](./%20L1%20-Exercício%204/)
+5. [Cálculo de Série I](#calculo-de-serie-i) - [Implementação](./%20L1%20-Exercício%205/)
+6. [Cálculo de Série II](#calculo-de-serie-ii) - [Implementação](./%20L1%20-Exercício%206/)
+7. [Série com Precisão](#serie-com-precisao) - [Implementação](./%20L1%20-Exercício%207/)
+8. [Cálculo Exponencial](#calculo-exponencial) - [Implementação](./%20L1%20-Exercício%208/)
+9. [Cálculo de Cosseno](#calculo-de-cosseno) - [Implementação](./%20L1%20-Exercício%209/)
+10. [Desafio do Tabuleiro](#desafio-do-tabuleiro) - [Implementação](./%20L1%20-Exercício%2010/)
 
 ### Lista 2 - Tópicos Avançados
 1. [Análise de Vetor](#analise-de-vetor) - [Implementação](./L2%20-Exercício%201/)
